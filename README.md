@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pemba Dorji
-- 👀 I aspire to be a Fullstack Developer and gain expertise in Cyber Security
+- 👀 I aspire to be a Fullstack Developer. I am also interested in learning about Cyber Security.
 - 🌱 I’m currently learning Javascript and React
 - 💞️ I have experience with Django, Apache Airflow, Kubernetes, Docker and GitOps
 <!---
